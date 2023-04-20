@@ -1,6 +1,8 @@
 # FlipSide-TransportingBarrels
 FlipSide Minecraft server plugin for retaining items when you breake barrel
 
+Minecraft version: 1.19
+
 Links:
 
 FlipSide RP Discord Server -> https://discord.gg/5DRCKTRhy3
