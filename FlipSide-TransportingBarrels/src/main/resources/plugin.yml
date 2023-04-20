@@ -1,0 +1,6 @@
+name: FlipSide-TransportingBarrels
+version: '${project.version}'
+main: org.flipside.mc.flipsidetransportingbarrels.FlipSide_TransportingBarrels
+api-version: 1.19
+authors: [FlipSide Team]
+description: github: https://github.com/JustHomka/FlipSide-TransportingBarrels
