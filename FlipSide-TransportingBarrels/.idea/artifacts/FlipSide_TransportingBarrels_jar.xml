@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlipSide-TransportingBarrels:jar">
+    <output-path>$PROJECT_DIR$/../../тест сервер 1.19/plugins</output-path>
+    <root id="archive" name="FlipSide-TransportingBarrels.jar">
+      <element id="module-output" name="FlipSide-TransportingBarrels" />
+    </root>
+  </artifact>
+</component>

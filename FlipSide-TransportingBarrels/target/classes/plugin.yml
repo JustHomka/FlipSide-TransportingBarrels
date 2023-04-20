@@ -1,5 +1,5 @@
 name: FlipSide-TransportingBarrels
-version: '${project.version}'
+version: '1.0-SNAPSHOT'
 main: org.flipside.mc.flipsidetransportingbarrels.FlipSide_TransportingBarrels
 api-version: 1.19
 authors: [FlipSide Team]
