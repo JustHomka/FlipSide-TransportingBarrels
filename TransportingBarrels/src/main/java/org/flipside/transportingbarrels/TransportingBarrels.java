@@ -8,6 +8,8 @@ public final class TransportingBarrels extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+
+        //Plugin startup message
         ConsoleCommandSender console = getServer().getConsoleSender();
         console.sendMessage("  " +
                 "████████╗██████╗  █████╗ ███╗   ██╗███████╗██████╗  ██████╗ ██████╗ ████████╗██╗███╗   ██╗ ██████╗ \n" +
