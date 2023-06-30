@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TransportingBarrels:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TransportingBarrels_jar</output-path>
+    <root id="archive" name="TransportingBarrels.jar">
+      <element id="module-output" name="TransportingBarrels.main" />
+    </root>
+  </artifact>
+</component>
