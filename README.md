@@ -1,5 +1,7 @@
 # FlipSide-TransportingBarrels
 
+![Static Badge](https://img.shields.io/badge/1.0.0-black?style=flat&label=Version&labelColor=25c2a0)
+
 # PLUGIN REWRITING IN PROGRESS, you can download 1.0.0 and 1.0.1 source code in releases
 
 FlipSide Minecraft server plugin for retaining items when you breake barrel
