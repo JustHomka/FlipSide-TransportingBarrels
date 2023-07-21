@@ -16,7 +16,6 @@ FlipSide RP Dynamic Map -> [rp.flipside.net.ua](http://rp.flipside.net.ua/)
 
 SpigotMC -> https://www.spigotmc.org/resources/flipside-transporting-barrels.109383/
 # 🔗Links:
-* [💬Discord](https://discord.gg/6ddR7jZzUc)
 * [☕Buy Me a Coffee](https://hangar.papermc.io/linkout?remoteUrl=https%3A%2F%2Fwww.buymeacoffee.com%2Fnothomka)
 * []()
 * []()
