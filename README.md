@@ -2,9 +2,13 @@
 
 ![Static Badge](https://img.shields.io/badge/1.0.0-black?style=flat&label=Version&labelColor=25c2a0)
 
-# PLUGIN REWRITING IN PROGRESS, you can download 1.0.0 and 1.0.1 source code in releases
+# ! DISCONTINUED !
 
-FlipSide Minecraft server plugin for retaining items when you breake barrel
+Project discontinued, it will not get any updates and user support, thanks for downloading and using this plugin
+
+### ~~PLUGIN REWRITING IN PROGRESS, you can download 1.0.0 and 1.0.1 source code in releases~~
+
+FlipSide Minecraft server plugin for retaining items when you break barrel
 
 Minecraft version: 1.14-1.19
 
