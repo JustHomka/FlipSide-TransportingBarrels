@@ -1,6 +1,6 @@
 # FlipSide-TransportingBarrels
 
-![Static Badge](https://img.shields.io/badge/1.0.0-black?style=flat&label=Version&labelColor=25c2a0)
+![Static Badge](https://img.shields.io/badge/1.0.1-black?style=flat&label=Version&labelColor=25c2a0)
 
 # ! DISCONTINUED !
 
